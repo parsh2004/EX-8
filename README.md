@@ -1,6 +1,6 @@
 # EX-8 APPLICATION USING TCP SOCKETS - CREATING ECHO CLIENT-SERVER
 
-DATE :26-04-2023
+DATE :24-04-2023
 
 # AIM :
 To write a python program for creating Echo Client and Echo Server using TCP Sockets Links.
